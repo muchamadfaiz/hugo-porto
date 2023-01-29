@@ -5,3 +5,10 @@ draft: false
 
 ---
 ## Scraping with Selectolax
+
+ini postingan sudah di update
+
+| selectolax | requests | elapsed time |
+| ---------- | -------- | ------------ |
+|            |          |              |
+|            |          |              |
